@@ -9,7 +9,7 @@ package com.mycompany.st10270925_nqobile_vumile_mntungwa_assignment_one;
  * @author Nqobi
  */
 public class Login {
- private String  password; 
+    private String  password; 
     private String  firstname; 
     private String  lastname;
     private String  username; 
